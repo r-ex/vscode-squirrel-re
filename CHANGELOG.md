@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.0.0 (squirrel_re)
+- Added squirrel_re syntax configuration
 
 ## 0.0.7
 
